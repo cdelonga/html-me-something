@@ -1,0 +1,53 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height
+  }
+
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(245, 52, 52);
+  }
+
+h2 {
+    text-align: center;
+  }
+
+#aerials{
+    color: teal;
+}
+
+  #mermaid {
+    color: rgb(60, 221, 159)
+}
+
+#pretzel {
+    color: rgb(173, 120, 41);
+    
+}
+
+#pole {
+    color: silver;
+}
+
+p {
+    color: white;
+    text-align: center;
+ }
+
+ul {
+    text-align: center;
+}
+
+.aerialtext {
+    background-color: teal;
+}
+.mermaidtext {
+    background-color: rgb(60, 221, 159);
+}
