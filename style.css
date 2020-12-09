@@ -2,8 +2,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%;
-    height
+    width: 500px;
+    
   }
 
 body {
@@ -13,10 +13,17 @@ body {
 h1 {
     text-align: center;
     color: rgb(245, 52, 52);
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
   }
-
+  
+ul,
 h2 {
-    text-align: center;
+    text-align: center;  
+    padding-right: 80px;
+    padding-left: 80px
   }
 
 #aerials{
@@ -24,7 +31,7 @@ h2 {
 }
 
   #mermaid {
-    color: rgb(60, 221, 159)
+    color: rgb(60, 221, 159);
 }
 
 #pretzel {
@@ -39,15 +46,26 @@ h2 {
 p {
     color: white;
     text-align: center;
+    margin-right: 150px;
+    margin-left: 150px;
  }
+
+footer {
+    color: white;
+}
 
 ul {
     text-align: center;
 }
-
 .aerialtext {
-    background-color: teal;
+    color: teal;
 }
 .mermaidtext {
-    background-color: rgb(60, 221, 159);
+    color: rgb(60, 221, 159);
+}
+.pretzeltext {
+    color: rgb(173, 120, 41)
+}
+.poletext {
+    color: silver;
 }
