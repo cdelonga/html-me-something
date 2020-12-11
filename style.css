@@ -15,7 +15,6 @@ h1 {
     color: rgb(245, 52, 52);
     padding-top: 50px;
     padding-right: 80px;
-    padding-bottom: 50px;
     padding-left: 80px;
   }
   
@@ -69,3 +68,8 @@ ul {
 .poletext {
     color: silver;
 }
+figcaption {
+    color:  rgb(60, 221, 159);
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
